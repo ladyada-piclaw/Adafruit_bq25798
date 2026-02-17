@@ -1,27 +1,15 @@
 /*!
  * @file Adafruit_BQ25798.h
  *
- * @mainpage Adafruit BQ25798 I2C Controlled Buck-Boost Battery Charger
+ * This is a library for the Adafruit BQ25798 battery charger.
  *
- * @section intro_sec Introduction
- *
- * This is a library for the Adafruit BQ25798 I2C controlled buck-boost battery
- * charger
- *
- * @section dependencies Dependencies
- *
- * This library depends on <a href="https://github.com/adafruit/Adafruit_BusIO">
- * Adafruit_BusIO</a> being present on your system. Please make sure you have
- * installed the latest version before using this library.
- *
- * @section author Author
+ * Adafruit invests time and resources providing this open source code,
+ * please support Adafruit and open-source hardware by purchasing
+ * products from Adafruit!
  *
  * Written by Limor Fried/Ladyada for Adafruit Industries.
  *
- * @section license License
- *
  * BSD license, all text here must be included in any redistribution.
- *
  */
 
 #ifndef __ADAFRUIT_BQ25798_H__
